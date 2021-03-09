@@ -4,16 +4,17 @@ body{
 }
 
 .navbar{
-	font-size: .875em;
-	
+   font-size:0.875em;
+   margin-bottom:0px;
 }
 
+
 a{
-	color:#F8F8F8
+	color:#F8F8F8;
 } 
 
 a:hover{
-	color: #ed7dle;
+	color: #FAFF56;
 }
 
 .nav > li > a:hover {
