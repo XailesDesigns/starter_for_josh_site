@@ -48,7 +48,6 @@
 	<!—remove all our styles and any Javascript code. Wordpress automatically calls javascript /jquery elsewhere, calls to javascript are not needed in the header or the footer now-->
     
 <?php wp_head(); ?> <!—very important that this is added-->
-
     </head>
 
 <body>
